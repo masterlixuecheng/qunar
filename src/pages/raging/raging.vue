@@ -1,10 +1,10 @@
 <template>
-  <div > city</div>
+    <div>raging</div>
 </template>
 
 <script>
     export default {
-        name: "city"
+        name: "raging"
     }
 </script>
 
